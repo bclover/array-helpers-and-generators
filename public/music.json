@@ -1,0 +1,223 @@
+{
+  "type": "blues",
+  "artists": [
+    {
+      "name": "Eric Clapton",
+      "albums": [
+        {
+          "title": "Eric Clapton",
+          "month": "July",
+          "year": "1970",
+          "position": "13",
+          "tracks": [
+            "Slunky",
+            "Bad Boy",
+            "Lonesome and a Long Way from Home",
+            "After Midnight",
+            "Easy Now",
+            "Blues Power",
+            "Bottle of Red Wine",
+            "Lovin' You Lovin' Me",
+            "Told You For the Last Time",
+            "Don't Know Why",
+            "Let It Rain"
+          ]
+        },
+        {
+          "title": "461 Ocean Boulevard",
+          "month": "July",
+          "year": "1974",
+          "position": "1",
+          "tracks": [
+            "Motherless Children",
+            "Give Me Strength",
+            "Willie and the Hand Jive",
+            "Get Ready",
+            "I Shot the Sheriff",
+            "I Can't Hold Out",
+            "Please Be with Me",
+            "Let It Grow",
+            "Steady Rollin' Man",
+            "Mainline Florida"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B.B.King",
+      "albums": [
+        {
+          "title": "Dueces Wild",
+          "month": "November",
+          "year": "1997",
+          "position": "1",
+          "tracks": [
+            "If You Love Me",
+            "The Thrill Is Gone",
+            "Rock Me Baby",
+            "Please Send Me Someone to Love",
+            "Baby I Love You"
+          ]
+        },
+        {
+          "title": "Blues on the Bayou",
+          "month": "December",
+          "year": "1998",
+          "position": "2",
+          "tracks": [
+            "Blues Boys Tune",
+            "Bad Case of Love",
+            "I'll Survive",
+            "Mean Ole' World",
+            "Blues Man"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gary Moore",
+      "albums": [
+        {
+          "title": "Still Got the Blues",
+          "month": "March",
+          "year": "1990",
+          "position": "83",
+          "tracks": [
+            "Moving On",
+            "Oh Pretty Woman",
+            "Walking By Myself",
+            "Still Got the Blues (For You)",
+            "Texas Strut",
+            "Too Tired"
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "type": "heavy metal",
+  "artists": [
+    {
+      "name": "Ozzy Osbourne",
+      "albums": [
+        {
+          "title": "Blizzard of Oz",
+          "month": "March",
+          "year": "1980",
+          "position": "1",
+          "tracks": [
+            "Moving On",
+            "Oh Pretty Woman",
+            "Walking By Myself",
+            "Still Got the Blues (For You)",
+            "Texas Strut",
+            "Too Tired"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Metallica",
+      "albums": [
+        {
+          "title": "And Justice For All",
+          "month": "March",
+          "year": "1987",
+          "position": "5",
+          "tracks": [
+            "Blackened",
+            "One",
+            "To Live is to Die",
+            "And Justice For All"
+          ]
+        },
+        {
+          "title": "Master of Puppets",
+          "month": "March",
+          "year": "1985",
+          "position": "1",
+          "tracks": [
+            "Orion",
+            "Master of Puppets",
+            "Havester of Sorrow",
+            "Sanitarium"
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "type": "jazz",
+  "artists": [
+    {
+      "name": "Wes Montgomery",
+      "albums": [
+        {
+          "title": "Fingerpickin",
+          "month": "April",
+          "year": "1958",
+          "position": "1",
+          "tracks": [
+            "Sound Carrier",
+            "Bud's Beaux Arts",
+            "Bock to Bock",
+            "Billie's Bounce",
+            "Lois Ann",
+            "All the Things You Are",
+            "Fingerpickin",
+            "Stranger in Paradise"
+          ]
+        },
+        {
+          "title": "Movin' Wes",
+          "month": "December",
+          "year": "1964",
+          "position": "1",
+          "tracks": [
+            "Caravan",
+            "People",
+            "Movin' Wes, Pt. 1",
+            "Matchmaker, Matchmaker",
+            "Movin' Wes, Pt. 2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lee Ritenour",
+      "albums": [
+        {
+          "title": "First Course",
+          "month": "January",
+          "year": "1976",
+          "position": "4",
+          "tracks": [
+            "Little Bit of This and a Little Bit of That",
+            "Sweet Syncopation",
+            "Theme from Three Days of the Condor",
+            "Fatback",
+            "Memories Past"
+          ]
+        },
+        {
+          "title": "Rio",
+          "month": "May",
+          "year": "1979",
+          "position": "9",
+          "tracks": [
+            "Rio Funk",
+            "San Juan Sunset",
+            "Rainbow",
+            "A Little Bit of This and a Little Bit of That",
+            "Simplicidad",
+            "Ipanema Sol",
+            "It Happens Every Day"
+          ]
+        }
+      ]
+    }
+  ]
+}
+
