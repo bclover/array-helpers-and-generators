@@ -1,7 +1,6 @@
 .App {
   text-align: center;
 }
-
-.json-data {
-  font-size: .75rem;
+.categories {
+  list-style-type: none;
 }
